@@ -1,0 +1,5 @@
+{
+  "name": "Remix: DayPlanner",
+  "description": "Приложение для создания расписания на день с возможностью перетаскивания событий и выбора иконок.",
+  "requestFramePermissions": []
+}
